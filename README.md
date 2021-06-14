@@ -1,1 +1,1 @@
-#kickstarter-analysis
+#AnalysisofKickstarterCampaigns
